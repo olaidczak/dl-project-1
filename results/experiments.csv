@@ -43,4 +43,4 @@ timestamp,model,pretrained_weights,optimizer,learning_rate,batch_size,num_epochs
 1774123761,resnet18,IMAGENET1K_V1,SGD,0.01,32,40,0.0001,0.3,None,standard,0.827784,4545.52
 1774208490,resnet18,IMAGENET1K_V1,SGD,0.01,32,40,0.001,0,None,standard,0.769836,5248.91
 1774296348,resnet18,IMAGENET1K_V1,SGD,0.01,32,15,0.0001,0,None,cutmix,0.79923,2315.73
-1773612545,resnet18,IMAGENET1K_V1,SGD,0.01,32,15,0.0001,0,None,raw,,
+1773612545,resnet18,IMAGENET1K_V1,SGD,0.01,32,15,0.0001,0,None,none,,
